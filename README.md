@@ -21,9 +21,3 @@ You can create pull requests to this repo in any language you like. If you don't
 
 # Commit messages
 It's best to use **[conventional commit message](https://ccm.snowflakedev.org)** format but is not compulsory.
-
-# Join our Discord
-
-[![](https://i.imgur.com/S1V71CD.png)](https://snowflakedev.org/discord)
-
-## 💗 Open Source 🎉
